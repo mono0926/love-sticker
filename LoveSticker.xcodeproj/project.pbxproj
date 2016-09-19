@@ -7,6 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE11D3D71D8FF1C5001213C3 /* StickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE11D3D61D8FF1C5001213C3 /* StickerViewController.swift */; };
+		FE11D4A61D8FF5F1001213C3 /* stamp0.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D47E1D8FF5F0001213C3 /* stamp0.png */; };
+		FE11D4A71D8FF5F1001213C3 /* stamp1.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D47F1D8FF5F0001213C3 /* stamp1.png */; };
+		FE11D4A81D8FF5F1001213C3 /* stamp10.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4801D8FF5F0001213C3 /* stamp10.png */; };
+		FE11D4A91D8FF5F1001213C3 /* stamp11.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4811D8FF5F0001213C3 /* stamp11.png */; };
+		FE11D4AA1D8FF5F1001213C3 /* stamp12.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4821D8FF5F0001213C3 /* stamp12.png */; };
+		FE11D4AB1D8FF5F1001213C3 /* stamp13.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4831D8FF5F0001213C3 /* stamp13.png */; };
+		FE11D4AC1D8FF5F1001213C3 /* stamp14.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4841D8FF5F0001213C3 /* stamp14.png */; };
+		FE11D4AD1D8FF5F1001213C3 /* stamp15.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4851D8FF5F0001213C3 /* stamp15.png */; };
+		FE11D4AE1D8FF5F1001213C3 /* stamp16.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4861D8FF5F0001213C3 /* stamp16.png */; };
+		FE11D4AF1D8FF5F1001213C3 /* stamp17.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4871D8FF5F0001213C3 /* stamp17.png */; };
+		FE11D4B01D8FF5F1001213C3 /* stamp18.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4881D8FF5F0001213C3 /* stamp18.png */; };
+		FE11D4B11D8FF5F1001213C3 /* stamp19.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4891D8FF5F0001213C3 /* stamp19.png */; };
+		FE11D4B21D8FF5F1001213C3 /* stamp2.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D48A1D8FF5F0001213C3 /* stamp2.png */; };
+		FE11D4B31D8FF5F1001213C3 /* stamp20.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D48B1D8FF5F0001213C3 /* stamp20.png */; };
+		FE11D4B41D8FF5F1001213C3 /* stamp21.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D48C1D8FF5F0001213C3 /* stamp21.png */; };
+		FE11D4B51D8FF5F1001213C3 /* stamp22.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D48D1D8FF5F0001213C3 /* stamp22.png */; };
+		FE11D4B61D8FF5F1001213C3 /* stamp23.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D48E1D8FF5F0001213C3 /* stamp23.png */; };
+		FE11D4B71D8FF5F1001213C3 /* stamp24.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D48F1D8FF5F0001213C3 /* stamp24.png */; };
+		FE11D4B81D8FF5F1001213C3 /* stamp25.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4901D8FF5F0001213C3 /* stamp25.png */; };
+		FE11D4B91D8FF5F1001213C3 /* stamp26.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4911D8FF5F0001213C3 /* stamp26.png */; };
+		FE11D4BA1D8FF5F1001213C3 /* stamp27.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4921D8FF5F0001213C3 /* stamp27.png */; };
+		FE11D4BB1D8FF5F1001213C3 /* stamp28.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4931D8FF5F0001213C3 /* stamp28.png */; };
+		FE11D4BC1D8FF5F1001213C3 /* stamp29.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4941D8FF5F0001213C3 /* stamp29.png */; };
+		FE11D4BD1D8FF5F1001213C3 /* stamp3.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4951D8FF5F0001213C3 /* stamp3.png */; };
+		FE11D4BE1D8FF5F1001213C3 /* stamp30.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4961D8FF5F0001213C3 /* stamp30.png */; };
+		FE11D4BF1D8FF5F1001213C3 /* stamp31.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4971D8FF5F0001213C3 /* stamp31.png */; };
+		FE11D4C01D8FF5F1001213C3 /* stamp32.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4981D8FF5F0001213C3 /* stamp32.png */; };
+		FE11D4C11D8FF5F1001213C3 /* stamp33.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4991D8FF5F0001213C3 /* stamp33.png */; };
+		FE11D4C21D8FF5F1001213C3 /* stamp34.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D49A1D8FF5F0001213C3 /* stamp34.png */; };
+		FE11D4C31D8FF5F1001213C3 /* stamp35.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D49B1D8FF5F1001213C3 /* stamp35.png */; };
+		FE11D4C41D8FF5F1001213C3 /* stamp36.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D49C1D8FF5F1001213C3 /* stamp36.png */; };
+		FE11D4C51D8FF5F1001213C3 /* stamp37.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D49D1D8FF5F1001213C3 /* stamp37.png */; };
+		FE11D4C61D8FF5F1001213C3 /* stamp38.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D49E1D8FF5F1001213C3 /* stamp38.png */; };
+		FE11D4C71D8FF5F1001213C3 /* stamp39.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D49F1D8FF5F1001213C3 /* stamp39.png */; };
+		FE11D4C81D8FF5F1001213C3 /* stamp4.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4A01D8FF5F1001213C3 /* stamp4.png */; };
+		FE11D4C91D8FF5F1001213C3 /* stamp5.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4A11D8FF5F1001213C3 /* stamp5.png */; };
+		FE11D4CA1D8FF5F1001213C3 /* stamp6.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4A21D8FF5F1001213C3 /* stamp6.png */; };
+		FE11D4CB1D8FF5F1001213C3 /* stamp7.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4A31D8FF5F1001213C3 /* stamp7.png */; };
+		FE11D4CC1D8FF5F1001213C3 /* stamp8.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4A41D8FF5F1001213C3 /* stamp8.png */; };
+		FE11D4CD1D8FF5F1001213C3 /* stamp9.png in Resources */ = {isa = PBXBuildFile; fileRef = FE11D4A51D8FF5F1001213C3 /* stamp9.png */; };
 		FE70D21F1D8FF0ED00CB2E18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE70D21E1D8FF0ED00CB2E18 /* Assets.xcassets */; };
 		FE70D2261D8FF0ED00CB2E18 /* MessagesExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = FE70D2251D8FF0ED00CB2E18 /* MessagesExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		FE70D22B1D8FF0ED00CB2E18 /* Messages.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE70D22A1D8FF0ED00CB2E18 /* Messages.framework */; };
@@ -40,6 +81,47 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		FE11D3D61D8FF1C5001213C3 /* StickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StickerViewController.swift; path = ../LoveSticker/StickerViewController.swift; sourceTree = "<group>"; };
+		FE11D47E1D8FF5F0001213C3 /* stamp0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp0.png; sourceTree = "<group>"; };
+		FE11D47F1D8FF5F0001213C3 /* stamp1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp1.png; sourceTree = "<group>"; };
+		FE11D4801D8FF5F0001213C3 /* stamp10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp10.png; sourceTree = "<group>"; };
+		FE11D4811D8FF5F0001213C3 /* stamp11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp11.png; sourceTree = "<group>"; };
+		FE11D4821D8FF5F0001213C3 /* stamp12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp12.png; sourceTree = "<group>"; };
+		FE11D4831D8FF5F0001213C3 /* stamp13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp13.png; sourceTree = "<group>"; };
+		FE11D4841D8FF5F0001213C3 /* stamp14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp14.png; sourceTree = "<group>"; };
+		FE11D4851D8FF5F0001213C3 /* stamp15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp15.png; sourceTree = "<group>"; };
+		FE11D4861D8FF5F0001213C3 /* stamp16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp16.png; sourceTree = "<group>"; };
+		FE11D4871D8FF5F0001213C3 /* stamp17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp17.png; sourceTree = "<group>"; };
+		FE11D4881D8FF5F0001213C3 /* stamp18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp18.png; sourceTree = "<group>"; };
+		FE11D4891D8FF5F0001213C3 /* stamp19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp19.png; sourceTree = "<group>"; };
+		FE11D48A1D8FF5F0001213C3 /* stamp2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp2.png; sourceTree = "<group>"; };
+		FE11D48B1D8FF5F0001213C3 /* stamp20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp20.png; sourceTree = "<group>"; };
+		FE11D48C1D8FF5F0001213C3 /* stamp21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp21.png; sourceTree = "<group>"; };
+		FE11D48D1D8FF5F0001213C3 /* stamp22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp22.png; sourceTree = "<group>"; };
+		FE11D48E1D8FF5F0001213C3 /* stamp23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp23.png; sourceTree = "<group>"; };
+		FE11D48F1D8FF5F0001213C3 /* stamp24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp24.png; sourceTree = "<group>"; };
+		FE11D4901D8FF5F0001213C3 /* stamp25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp25.png; sourceTree = "<group>"; };
+		FE11D4911D8FF5F0001213C3 /* stamp26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp26.png; sourceTree = "<group>"; };
+		FE11D4921D8FF5F0001213C3 /* stamp27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp27.png; sourceTree = "<group>"; };
+		FE11D4931D8FF5F0001213C3 /* stamp28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp28.png; sourceTree = "<group>"; };
+		FE11D4941D8FF5F0001213C3 /* stamp29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp29.png; sourceTree = "<group>"; };
+		FE11D4951D8FF5F0001213C3 /* stamp3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp3.png; sourceTree = "<group>"; };
+		FE11D4961D8FF5F0001213C3 /* stamp30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp30.png; sourceTree = "<group>"; };
+		FE11D4971D8FF5F0001213C3 /* stamp31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp31.png; sourceTree = "<group>"; };
+		FE11D4981D8FF5F0001213C3 /* stamp32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp32.png; sourceTree = "<group>"; };
+		FE11D4991D8FF5F0001213C3 /* stamp33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp33.png; sourceTree = "<group>"; };
+		FE11D49A1D8FF5F0001213C3 /* stamp34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp34.png; sourceTree = "<group>"; };
+		FE11D49B1D8FF5F1001213C3 /* stamp35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp35.png; sourceTree = "<group>"; };
+		FE11D49C1D8FF5F1001213C3 /* stamp36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp36.png; sourceTree = "<group>"; };
+		FE11D49D1D8FF5F1001213C3 /* stamp37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp37.png; sourceTree = "<group>"; };
+		FE11D49E1D8FF5F1001213C3 /* stamp38.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp38.png; sourceTree = "<group>"; };
+		FE11D49F1D8FF5F1001213C3 /* stamp39.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp39.png; sourceTree = "<group>"; };
+		FE11D4A01D8FF5F1001213C3 /* stamp4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp4.png; sourceTree = "<group>"; };
+		FE11D4A11D8FF5F1001213C3 /* stamp5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp5.png; sourceTree = "<group>"; };
+		FE11D4A21D8FF5F1001213C3 /* stamp6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp6.png; sourceTree = "<group>"; };
+		FE11D4A31D8FF5F1001213C3 /* stamp7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp7.png; sourceTree = "<group>"; };
+		FE11D4A41D8FF5F1001213C3 /* stamp8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp8.png; sourceTree = "<group>"; };
+		FE11D4A51D8FF5F1001213C3 /* stamp9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp9.png; sourceTree = "<group>"; };
 		FE70D21B1D8FF0ED00CB2E18 /* LoveSticker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoveSticker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE70D21E1D8FF0ED00CB2E18 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE70D2201D8FF0ED00CB2E18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -63,6 +145,53 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FE11D47D1D8FF5F0001213C3 /* stamps */ = {
+			isa = PBXGroup;
+			children = (
+				FE11D47E1D8FF5F0001213C3 /* stamp0.png */,
+				FE11D47F1D8FF5F0001213C3 /* stamp1.png */,
+				FE11D4801D8FF5F0001213C3 /* stamp10.png */,
+				FE11D4811D8FF5F0001213C3 /* stamp11.png */,
+				FE11D4821D8FF5F0001213C3 /* stamp12.png */,
+				FE11D4831D8FF5F0001213C3 /* stamp13.png */,
+				FE11D4841D8FF5F0001213C3 /* stamp14.png */,
+				FE11D4851D8FF5F0001213C3 /* stamp15.png */,
+				FE11D4861D8FF5F0001213C3 /* stamp16.png */,
+				FE11D4871D8FF5F0001213C3 /* stamp17.png */,
+				FE11D4881D8FF5F0001213C3 /* stamp18.png */,
+				FE11D4891D8FF5F0001213C3 /* stamp19.png */,
+				FE11D48A1D8FF5F0001213C3 /* stamp2.png */,
+				FE11D48B1D8FF5F0001213C3 /* stamp20.png */,
+				FE11D48C1D8FF5F0001213C3 /* stamp21.png */,
+				FE11D48D1D8FF5F0001213C3 /* stamp22.png */,
+				FE11D48E1D8FF5F0001213C3 /* stamp23.png */,
+				FE11D48F1D8FF5F0001213C3 /* stamp24.png */,
+				FE11D4901D8FF5F0001213C3 /* stamp25.png */,
+				FE11D4911D8FF5F0001213C3 /* stamp26.png */,
+				FE11D4921D8FF5F0001213C3 /* stamp27.png */,
+				FE11D4931D8FF5F0001213C3 /* stamp28.png */,
+				FE11D4941D8FF5F0001213C3 /* stamp29.png */,
+				FE11D4951D8FF5F0001213C3 /* stamp3.png */,
+				FE11D4961D8FF5F0001213C3 /* stamp30.png */,
+				FE11D4971D8FF5F0001213C3 /* stamp31.png */,
+				FE11D4981D8FF5F0001213C3 /* stamp32.png */,
+				FE11D4991D8FF5F0001213C3 /* stamp33.png */,
+				FE11D49A1D8FF5F0001213C3 /* stamp34.png */,
+				FE11D49B1D8FF5F1001213C3 /* stamp35.png */,
+				FE11D49C1D8FF5F1001213C3 /* stamp36.png */,
+				FE11D49D1D8FF5F1001213C3 /* stamp37.png */,
+				FE11D49E1D8FF5F1001213C3 /* stamp38.png */,
+				FE11D49F1D8FF5F1001213C3 /* stamp39.png */,
+				FE11D4A01D8FF5F1001213C3 /* stamp4.png */,
+				FE11D4A11D8FF5F1001213C3 /* stamp5.png */,
+				FE11D4A21D8FF5F1001213C3 /* stamp6.png */,
+				FE11D4A31D8FF5F1001213C3 /* stamp7.png */,
+				FE11D4A41D8FF5F1001213C3 /* stamp8.png */,
+				FE11D4A51D8FF5F1001213C3 /* stamp9.png */,
+			);
+			path = stamps;
+			sourceTree = "<group>";
+		};
 		FE70D2141D8FF0ED00CB2E18 = {
 			isa = PBXGroup;
 			children = (
@@ -102,6 +231,8 @@
 		FE70D22C1D8FF0ED00CB2E18 /* MessagesExtension */ = {
 			isa = PBXGroup;
 			children = (
+				FE11D47D1D8FF5F0001213C3 /* stamps */,
+				FE11D3D61D8FF1C5001213C3 /* StickerViewController.swift */,
 				FE70D22D1D8FF0ED00CB2E18 /* MessagesViewController.swift */,
 				FE70D22F1D8FF0ED00CB2E18 /* MainInterface.storyboard */,
 				FE70D2321D8FF0ED00CB2E18 /* Assets.xcassets */,
@@ -201,8 +332,48 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE11D4AC1D8FF5F1001213C3 /* stamp14.png in Resources */,
+				FE11D4C61D8FF5F1001213C3 /* stamp38.png in Resources */,
+				FE11D4B61D8FF5F1001213C3 /* stamp23.png in Resources */,
+				FE11D4BC1D8FF5F1001213C3 /* stamp29.png in Resources */,
+				FE11D4B01D8FF5F1001213C3 /* stamp18.png in Resources */,
+				FE11D4B41D8FF5F1001213C3 /* stamp21.png in Resources */,
 				FE70D2331D8FF0ED00CB2E18 /* Assets.xcassets in Resources */,
+				FE11D4CD1D8FF5F1001213C3 /* stamp9.png in Resources */,
+				FE11D4C21D8FF5F1001213C3 /* stamp34.png in Resources */,
+				FE11D4A61D8FF5F1001213C3 /* stamp0.png in Resources */,
+				FE11D4CB1D8FF5F1001213C3 /* stamp7.png in Resources */,
+				FE11D4AF1D8FF5F1001213C3 /* stamp17.png in Resources */,
+				FE11D4B91D8FF5F1001213C3 /* stamp26.png in Resources */,
+				FE11D4C81D8FF5F1001213C3 /* stamp4.png in Resources */,
+				FE11D4B31D8FF5F1001213C3 /* stamp20.png in Resources */,
+				FE11D4C31D8FF5F1001213C3 /* stamp35.png in Resources */,
+				FE11D4AD1D8FF5F1001213C3 /* stamp15.png in Resources */,
+				FE11D4AE1D8FF5F1001213C3 /* stamp16.png in Resources */,
+				FE11D4B51D8FF5F1001213C3 /* stamp22.png in Resources */,
+				FE11D4C51D8FF5F1001213C3 /* stamp37.png in Resources */,
+				FE11D4AA1D8FF5F1001213C3 /* stamp12.png in Resources */,
+				FE11D4B81D8FF5F1001213C3 /* stamp25.png in Resources */,
+				FE11D4BF1D8FF5F1001213C3 /* stamp31.png in Resources */,
 				FE70D2311D8FF0ED00CB2E18 /* MainInterface.storyboard in Resources */,
+				FE11D4B11D8FF5F1001213C3 /* stamp19.png in Resources */,
+				FE11D4BD1D8FF5F1001213C3 /* stamp3.png in Resources */,
+				FE11D4C41D8FF5F1001213C3 /* stamp36.png in Resources */,
+				FE11D4CA1D8FF5F1001213C3 /* stamp6.png in Resources */,
+				FE11D4C91D8FF5F1001213C3 /* stamp5.png in Resources */,
+				FE11D4BE1D8FF5F1001213C3 /* stamp30.png in Resources */,
+				FE11D4A91D8FF5F1001213C3 /* stamp11.png in Resources */,
+				FE11D4C11D8FF5F1001213C3 /* stamp33.png in Resources */,
+				FE11D4C71D8FF5F1001213C3 /* stamp39.png in Resources */,
+				FE11D4BA1D8FF5F1001213C3 /* stamp27.png in Resources */,
+				FE11D4CC1D8FF5F1001213C3 /* stamp8.png in Resources */,
+				FE11D4A81D8FF5F1001213C3 /* stamp10.png in Resources */,
+				FE11D4A71D8FF5F1001213C3 /* stamp1.png in Resources */,
+				FE11D4B71D8FF5F1001213C3 /* stamp24.png in Resources */,
+				FE11D4C01D8FF5F1001213C3 /* stamp32.png in Resources */,
+				FE11D4BB1D8FF5F1001213C3 /* stamp28.png in Resources */,
+				FE11D4AB1D8FF5F1001213C3 /* stamp13.png in Resources */,
+				FE11D4B21D8FF5F1001213C3 /* stamp2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,6 +384,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE11D3D71D8FF1C5001213C3 /* StickerViewController.swift in Sources */,
 				FE70D22E1D8FF0ED00CB2E18 /* MessagesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
